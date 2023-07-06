@@ -1,0 +1,9 @@
+Django
+django-cors-headers
+django-debug-toolbar
+djangorestframework
+djangorestframework-simplejwt
+mysqlclient
+python-decouple
+pandas
+requests
